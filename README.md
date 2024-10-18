@@ -29,7 +29,7 @@ Código:
     cabeza VARCHAR(255),
     patitas INT
   );
-  ...
+  ```
 
   También si intentamos con varios espacios:
 
